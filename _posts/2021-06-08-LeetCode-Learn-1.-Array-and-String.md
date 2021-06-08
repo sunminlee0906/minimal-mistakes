@@ -1,5 +1,3 @@
-# LeetCode_Learn - 1. Array and String
-
 #### Table of Contents
 
 [**1. Array and String** - *Introduction to Data Structure*](#)
